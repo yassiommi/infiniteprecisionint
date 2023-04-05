@@ -6,6 +6,7 @@ Part of:
 CSE 701:
 Foundations of Modern Scientific Programming
 McMaster University, Fall 2022
+
 By: Prof. Barak Shoshany
 
 ## Utility Functions
