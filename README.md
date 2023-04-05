@@ -2,6 +2,12 @@
 
 This program contains a c++ class implemented in order to store and perform arithmetic on infinite-precision integers.
 
+Part of:
+CSE 701:
+Foundations of Modern Scientific Programming
+McMaster University, Fall 2022
+By: Prof. Barak Shoshany
+
 ## Utility Functions
 
 - ```extract_sign``` is a function which checks the first character of the string and returns -1 if it's negative and +1 otherwise.
